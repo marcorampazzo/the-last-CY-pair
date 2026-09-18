@@ -1,6 +1,6 @@
 # The last CY pair: computations for the paper
 
-This repository contains the Python and Macaulay2 computations accompanying *The Last Picard Rank 1 Double-Mirror Calabi-Yau Pair?* by Michał Kapustka, Marco Rampazzo, and Prajwal Samal, and describes how to run the Python code. 
+This repository contains the Python and Macaulay2 computations accompanying [*The Last Picard Rank 1 Double-Mirror Calabi-Yau Pair?*](https://arxiv.org/abs/2609.20704) by Michał Kapustka, Marco Rampazzo, and Prajwal Samal, and describes how to run the Python code. 
 
 ### What's inside
 
